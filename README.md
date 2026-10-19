@@ -55,13 +55,11 @@ reproducible without needing the company's confidential data.
 
 ## Running it
 
-```bash
-git clone <this repo>
-cd bbmed-datathon
+git clone https://github.com/PKDV68/HSRW-Datathon.git
+cd HSRW-Datathon
 pip install -r requirements.txt
 python src/make_sample_data.py        # generates sample_data/
 jupyter notebook notebooks/01_oee_downtime_and_reconciliation.ipynb
-```
 
 ## Tools
 
