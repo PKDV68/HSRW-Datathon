@@ -11,8 +11,8 @@ We didn't win, though the jury named it an extremely close decision. The analysi
 
 **Read more:**
 
-- Full case study: [PDF](deliverables/BBMED_Datathon_Case_Study.pdf) · [Word](https://github.com/PKDV68/HSRW-Datathon/raw/refs/heads/main/deliverables/BBMED_Datathon_Case_Study.docx)
-- Slide deck: [PDF](deliverables/BBMED_Datathon_Slides.pdf) · [PowerPoint](https://github.com/PKDV68/HSRW-Datathon/raw/refs/heads/main/deliverables/BBMED_Datathon_Slides.pptx)
+- Full case study: [PDF](deliverables/BBMED_Datathon_Case_Study.pdf) 
+- Slide deck: [PDF](deliverables/BBMED_Datathon_Slides.pdf) 
 - Condensed findings: [docs/findings.md](docs/findings.md)
 - Data model: [docs/data_model.md](docs/data_model.md)
 
